@@ -1,3 +1,3 @@
-interface User{
-  name: string
- }
+interface User {
+  name: string;
+}
